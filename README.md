@@ -1,9 +1,9 @@
 # Orange PI Zero
 Configure for Start With OrangePi Zero
 
-* Configure Auto Boot with Wifi and Ethernet:<br /><br />
+# Configure Auto Boot with Wifi and Ethernet:<br /><br />
 [ENG]<br />
-1-  Make a copy of your original configuration file:
+ 1-  Make a copy of your original configuration file:
  ```sh
 $ sudo cp /etc/network/interfaces /etc/network/interfacesBackup
 $ sudo nano /etc/network/interfaces
